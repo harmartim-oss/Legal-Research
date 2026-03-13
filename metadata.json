@@ -1,0 +1,5 @@
+{
+  "name": "Canadian Legal Data Explorer",
+  "description": "An application to search and access Canadian case law and federal legislation using the A2AJ API.",
+  "requestFramePermissions": []
+}
